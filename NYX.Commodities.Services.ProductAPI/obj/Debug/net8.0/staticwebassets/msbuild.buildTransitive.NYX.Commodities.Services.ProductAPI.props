@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NYX.Commodities.Services.ProductAPI.props" />
+</Project>
